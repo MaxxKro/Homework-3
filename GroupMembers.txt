@@ -1,4 +1,2 @@
-Group Member Names
-Maxx Kronisch
-Alan Stohoff
+This file contains the names of all group members:
 Brendan Duffy
