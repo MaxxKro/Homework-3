@@ -1,2 +1,4 @@
 This file contains the names of all group members:
 Maxx Kronisch
+Brendan Duffy
+Alan Stoloff
